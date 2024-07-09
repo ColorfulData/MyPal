@@ -70,8 +70,8 @@ The application provides links to trusted organizations and resources for furthe
 
 To use the MyPal application:
 
-1. **Install Dependencies**: Ensure all required libraries are installed (`streamlit`, `pandas`, `numpy`, `joblib`, `altair`, `requests`).
-2. **Run the Application**: Execute the Streamlit application using `streamlit run app.py`.
+1. **Install Dependencies**: Ensure all required libraries are installed (`streamlit`, `pandas`, `numpy`, `joblib`, `altair`, `requests`, `Llama3`).
+2. **Run the Application**: Execute the Streamlit application using `streamlit run app.py`..
 3. **Input Symptoms**: Enter your symptoms or feelings in the text area and submit.
 4. **View Results**: Review the predicted mental health condition, confidence level, and personalized suggestions.
 5. **Explore Resources**: Utilize the additional resources and YouTube meditation suggestions for further support.
