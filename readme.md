@@ -1,7 +1,7 @@
 # MyPal: Mental Health Diagnosis and Support Application
 
 ## Overview
-![MyPal](image-2.png)
+![MyPal](Image.jpeg)
 
 MyPal is a Streamlit-based application designed to assist users in understanding their mental health conditions through natural language processing (NLP) and logistic linear regression models. The application provides personalized suggestions, meditation techniques, and additional resources to support users based on their symptoms.
 
@@ -91,7 +91,7 @@ To use the MyPal application:
 
 ### YouTube Video Suggestion
 
-![YouTube Video Suggestion](<Youtube Video Suggestion-1.jpg>)
+![YouTube Video Suggestion](<Youtube Video Suggestion.jpg>)
 
 
 
