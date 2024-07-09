@@ -1,0 +1,4 @@
+myvirtenv
+.pytest_cache
+ollama
+.idea
